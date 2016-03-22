@@ -1,7 +1,7 @@
 name: Axio Media
 favicon: null
-layout_spectrum: 0.9193069541361183
-typography_spectrum: 0.05919685959815979
+layout_spectrum: 1
+typography_spectrum: 0.1665
 cta:
   domain: null
   bucket: null
