@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Weston Tobacco Blog]]></title>
         <description><![CDATA[Weston Tobacco Blog]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/axio-media/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 23:54:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 23 Mar 2016 00:01:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/axio-media/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c661175f-5ff6-496e-bf19-92800292d5b4.jpg">]]></description>
+            <link>https://thegrid.ai/axio-media/this-combo-deserves-your-attention/index.html</link>
+            <guid isPermaLink="false">3d24d04b-b67c-47f1-ae4b-a54dfe02bd29</guid>
+            <pubDate>Wed, 23 Mar 2016 00:00:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c35ac434-dadd-43e1-98b0-c1c5879a8cdb.jpg">]]></description>
-            <link>undefined2fe9009a-b492-48b2-8c18-ff8ecf662e83/index.html</link>
+            <link>https://thegrid.ai/axio-media/2fe9009a-b492-48b2-8c18-ff8ecf662e83/index.html</link>
             <guid isPermaLink="false">2fe9009a-b492-48b2-8c18-ff8ecf662e83</guid>
             <pubDate>Tue, 22 Mar 2016 23:52:43 GMT</pubDate>
         </item>
